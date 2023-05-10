@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/praveen8ae/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="GeniusIN" height="40" width="40" /></a>
 <a href="https://discord.com/channels/@GeniusIN#2920" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="GeniusIN" height="40" width="40" /></a>
 <a href="https://replit.com/@GeniusIN" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg" alt="GeniusIN" height="40" width="40" /></a>
-<a href="https://members.aaas.org/network/members/profile?UserKey=7edb9808-eb70-418a-88b5-ea029072abba" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Science_Magazine_logo.svg" alt="GeniusIN" height="30" width="70" /></a>
+<a href="https://members.aaas.org/network/members/profile?UserKey=7edb9808-eb70-418a-88b5-ea029072abba" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Science_Magazine_logo.svg" alt="GeniusIN" height="20" width="80" /></a>
 
 
 
