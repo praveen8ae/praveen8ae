@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on **Algorithms**
 - 🌱 I’m currently learning **Computer Graphics**
 - 👯 I’m looking to collaborate on **Unity Game Projects**
-<!-- - 🤔 I’m looking for help with ... =
-<!-- - 💬 Ask me about ... --->
 - 📫 How to reach me: **Discord: GeniusIN#2920**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **The first website http://info.cern.ch/**
@@ -33,8 +31,10 @@
 <a href="https://www.kaggle.com/geniusin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="GeniusIN" height="30" width="80" /></a>
 <a href="https://hackerone.com/geniusin" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDpAuVxOzRreoAVApt2zkuBVih8c4TMXBs-wRl3b3HOjoN3goqxKEnLYSr8tmjvelLYp92UsJ-g&usqp=CAU&ec=48665698" alt="GeniusIN" height="20" width="90" /></a>
 <a href="https://www.artstation.com/praveenae" target="blank"><img align="center" src="https://www.artstation.com/assets/about/logo/logo-artstation-vertical-a8aa107f79c46c9b16dcc7c5fe746084.png" alt="GeniusIN" height="40" width="60" /></a> -->
+<br>
 
 #### I play with these
+
 
 
 
