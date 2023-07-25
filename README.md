@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Unity Game Projects**
 - 📫 How to reach me: **Discord: GeniusIN#2920**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **The first website http://info.cern.ch/**
+<!-- - ⚡ Fun fact: **The first website http://info.cern.ch/** -->
 
 <br>
 
